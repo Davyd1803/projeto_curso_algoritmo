@@ -1,2 +1,2 @@
-# projeto_curso_algoritmo
-Projeto do curso de Algoritmo e lógica da Udemy
+# PROJETO CURSO ALGORITMO I
+### Projeto do curso de Algoritmo e lógica da Udemy

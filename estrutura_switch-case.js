@@ -1,33 +1,4 @@
-/*valor01, valor02, resultado: real
-operacao: caractere
 
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
- escreva("A proposta deste programa é calcular dois valores baseado na operação da sua escolha.")
-
- escreva(" Digite o primeiro valor: ")
- leia (valor01)
- escreva (valor01)
- escreva(" DIgite  a operação: Ex.: + , - , * , /")
- leia (operacao)
- escreva(" Digite o segundo valor: ")
- leia (valor02)
-
- escolha operacao
-    caso "+"
-         resultado := valor01 + valor02
-         caso "-"
-         resultado := valor01 - valor02
-         caso "*"
-         resultado := valor01 * valor02
-         caso "/"
-         resultado := valor01 / valor02
-
-
-         fimescolha
-
-   escreva ("O resultado do calculo é: ", resultado) */
-   
    Fimalgoritmo
    function acaoBotao() { 
    var valor01, valor02, resultado, operacao
